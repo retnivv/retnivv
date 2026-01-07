@@ -1,26 +1,26 @@
 ## Hi, I'm Seongeun Lee 👋
 
-### Education & Affiliation
-Korea University, Seoul, South Korea  
+### 🎓 Education & Affiliation
+- Korea University, Seoul, South Korea  
 - First Major: Mathematics Education  
 - Second Major: Interdisciplinary Major in Artificial Intelligence  
 - Affiliation: AIKU
 
 ---
 
-### Interests
+### 🔍 Research Interests
 - Information Retrieval
-- NLP
+- Natural Language Processing
 
 ---
 
-### Repositories
+### 📂 Repositories
 - **Foundational Paper Study**  
   Notes on foundational deep learning papers studied at AIKU  
   👉 https://github.com/retnivv/foundational-paper-study
 
 - **Retrieval Paper Notes**  
-  Study notes on information retrieval papers, focusing on retriever bottlenecks and training objectives  
+  Study notes on information retrieval papers written while participating in the MAFAT Hebrew Semantic Retrieval National Challenge  
   👉 https://github.com/retnivv/retrieval-paper-notes
 
 - **CS231n Assignment & Study Notes**  
@@ -29,6 +29,5 @@ Korea University, Seoul, South Korea
 
 ---
 
-### Contact
+### 📫 Contact
 - Email: retnivv@korea.ac.kr
-
