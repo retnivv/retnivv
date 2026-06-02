@@ -28,4 +28,4 @@
 ---
 
 ### 📫 Contact
-- Email: retnivv@korea.ac.kr
+- Email: lse072222@gmail.com
